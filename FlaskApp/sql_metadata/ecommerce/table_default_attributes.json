@@ -1,0 +1,1 @@
+{"customer": ["name", "mobile", "mail"], "product": ["product_name", "category", "company", "price"]}

@@ -1,0 +1,1 @@
+{"enrolls": ["roll_no", "marks"], "faculty": ["name", "qualification", "post"], "student": ["name", "address", "roll_no", "age"], "subjects": ["name", "description", "sem"]}
